@@ -1,3 +1,10 @@
 @charset "UTF-8";
 
-/*CONFIGURAÇÕES DE RETRATO = portrait*/
+/*CONFIGURAÇÕES DE RETRATO  em pé = portrait */
+
+body {
+
+    background-image: url(../media02/cev-portrait.jpg);
+    background-position: center bottom;
+
+}
